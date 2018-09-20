@@ -1,2 +1,4 @@
 test.txt
 test1.txt
+*-checkpoint.ipynb
+.ipynb_checkpoints
