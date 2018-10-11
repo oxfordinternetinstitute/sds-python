@@ -1,0 +1,25 @@
+,episodeName,airedEpisodeNumber,airedSeason
+0,Juliet Prowse,24,1
+1,Connie Stevens,22,1
+2,Joel Grey,5,1
+3,Ruth Buzzi,4,1
+4,Rita Moreno,3,1
+5,Jim Nabors,1,1
+6,Florence Henderson,9,1
+7,Paul Williams,6,1
+8,Charles Aznavour,15,1
+9,Harvey Korman,13,1
+10,Lena Horne,7,1
+11,Peter Ustinov,8,1
+12,Bruce Forsyth,12,1
+13,Sandy Duncan,2,1
+14,Candice Bergen,11,1
+15,Avery Schreiber,23,1
+16,Ben Vereen,17,1
+17,Phyllis Diller,20,1
+18,Vincent Price,18,1
+19,Valerie Harper,10,1
+20,Twiggy,19,1
+21,Ethel Merman,21,1
+22,Kaye Ballard,16,1
+23,Mummenschanz,14,1

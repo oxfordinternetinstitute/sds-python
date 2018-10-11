@@ -1,0 +1,25 @@
+,episodeName,airedEpisodeNumber,airedSeason
+24,Don Knotts,10,2
+25,Zero Mostel,13,2
+26,Milton Berle,8,2
+27,Rich Little,9,2
+28,Judy Collins,15,2
+29,Nancy Walker,5,2
+30,Edgar Bergen,3,2
+31,Steve Martin,6,2
+32,Madeline Kahn,2,2
+33,George Burns,1,2
+34,Dom DeLuise,4,2
+35,Bernadette Peters,7,2
+36,Rudolf Nureyev,14,2
+37,Elton John,16,2
+38,Lou Rawls,21,2
+39,Cleo Laine,23,2
+40,Julie Andrews,18,2
+41,Jaye P. Morgan,20,2
+42,Peter Sellers,19,2
+43,Petula Clark,22,2
+44,Bob Hope,17,2
+45,Teresa Brewer,11,2
+46,John Cleese,12,2
+47,Cloris Leachman,24,2
